@@ -20,4 +20,3 @@ draw_door(t, -20, -125)
 
 turtle.done()
 
-#123abc123abc7!
